@@ -24,7 +24,7 @@
 ## LESSON 2
 <div id="2"></div>
 
-**Topics covered are:**
+**Topic covered:**
 
 1. Demo of Student score prediction.
    - Acquire the data
@@ -33,6 +33,13 @@
 
 ## LESSON 3
 <div id="3"></div>
+
+**Topic covered:**
+
+1. Data Visualization
+   - Data quality: identifying outliers, filling null value.
+   - Data exploration: plotting of data.
+   - Data presentation: describing/explaining the data.
 
 ## LESSON 4
 <div id="4"></div>
