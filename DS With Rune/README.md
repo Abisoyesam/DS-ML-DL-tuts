@@ -56,3 +56,14 @@
 3. Create new data
 4. Boolean data selection
 5. `groupby()` and `value_counts()`
+
+## LESSON 5
+<div id="5"></div>
+
+**Topics covered are:**
+
+1. Web scrapping with pandas
+     - `pd.read_html()`
+2. Data wrangling: Transform data from raw format to another format. It includes:
+     - Converting string to integer `pd.to_numeric()`
+     - Converting object to integer (NaN) `pd.to_numeric(errors='coerce')`
