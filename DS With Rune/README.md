@@ -43,3 +43,16 @@
 
 ## LESSON 4
 <div id="4"></div>
+
+**Topics covered are:**
+
+1. Read data from CSV
+     - Parsing date: by default date is read as string.
+     - Indexing by date or serial number or ID
+     - Slicing rows and columns.
+     - Accessing using index. `loc` -> location
+     - Accessing by position `iloc` >> data.iloc[0:5] == data.head()
+2. Arithmetic operation
+3. Create new data
+4. Boolean data selection
+5. `groupby()` and `value_counts()`
