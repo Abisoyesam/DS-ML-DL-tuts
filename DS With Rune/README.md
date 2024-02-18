@@ -26,6 +26,11 @@
 
 **Topics covered are:**
 
+1. Demo of Student score prediction.
+   - Acquire the data
+   - Prepare the data
+   - Analyze: Correlation, Groupby, Statistics.
+
 ## LESSON 3
 <div id="3"></div>
 
